@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="200">
-    <h1 align="center"> 👋 Hola Soy Fransico</h1>
+    <h1 align="center"> 👋 Hola Soy Fransisco</h1>
     <h3 align="center">Programaciòn - Finanzas,  apasionado por la lectura y el deporte</h3>
 
 </div>
