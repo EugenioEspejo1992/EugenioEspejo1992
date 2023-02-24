@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**EugenioEspejo1992/EugenioEspejo1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" aling ="center">
+    <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="200">
+    <h1 aling="center"> 👋 Hola Soy Fransico</h1>
+    <h3 aling="center">Programaciòn - Finanzas,  apasionado por la lectura y el deporte</h3>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+- 🔭 Actulamente estoy aprendiendo Desarollo Front End
+
+- 🌱 Desarollando Emprendiemientos
+
+- 🤔 Aprendiendo cosas nuevas
+
+- 💬 Soluciones
+
+- 📫 Mi mail Personal: franciscojegasramirez@gmail.com
+
+- 😄 ⚡ Me gusta la Pizza.
+-  
+---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
